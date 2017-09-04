@@ -13,7 +13,7 @@
         "php": ">=5.4.0"
     },
     "require-dev": {
-         "orchestra/testbench": "~3.0",
+        "orchestra/testbench": "~3.0",
         "phpunit/phpunit": "~4.0"
     },
     "autoload": {
@@ -26,5 +26,5 @@
         ]
     },
 
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
