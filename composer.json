@@ -18,8 +18,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Keyhunter\\Translatable\\": "src/Keyhunter/Translatable/"
+            "Keyhunter\\Translatable\\": ""
         },
+         "target-dir": "src/Keyhunter/Translatable/",
+        
         "classmap": [
             "tests"
         ]
